@@ -9,7 +9,7 @@ using SalesWebMvc.Models;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20210625134833_OtherEntities")]
+    [Migration("20210626144249_OtherEntities")]
     partial class OtherEntities
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
